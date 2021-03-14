@@ -1,0 +1,78 @@
+.top{
+    height:80px;
+    
+    border:1px solid black;
+    }
+    .nav{
+    height:47px;
+    background-color:#19C526;
+    border:1px solid black;
+    }
+    .menu{
+    
+    width:250px;
+    height:900px;
+    }
+    .main{
+    margin-top:-900px;
+    margin-left:250px;
+    width:1250px;
+    height:900px;
+    
+    }
+    .java1{
+    text-decoration:underline;
+    color: blue;
+    }
+    .java2{
+    text-decoration:none;
+    color: black;
+    }
+    .p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10,.p11,.p12,.p13,.p14,.p15,.p16,.p17{
+    display:none;
+    }
+    .blue {
+      background-color: white;
+    }
+    i{
+      color:red;
+    }
+    div.scroll {
+                    margin-top:10px;
+                    margin-left:10px;
+                    padding:4px;
+                    background-color: black;
+                    color:white;
+                    width: 1000px;
+                    height: 300px;
+                    overflow-x: hidden;
+                    overflow-x: auto;
+                    text-align:justify;
+                }
+    
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+    .heading{
+        font-size: 50px;
+        text-decoration: underline;
+        font-weight: 800;
+    }
+    .smallheading{
+        font-size:30px;
+        text-decoration: underline;
+        font-weight: 800;
+        color:purple;
+    }
